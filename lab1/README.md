@@ -94,7 +94,7 @@ http://localhost:3000/api/users/5 — JSON с параметром
 
 http://localhost:3000/anything — ошибка 404
 
-![ошибка 404](/screenshots/example_anything.png)
+![ошибка 404](screenshots/example_anything.png)
 
 ## Выполнение индивидуального задания
 
