@@ -78,23 +78,23 @@ app.listen(port, () => {
 
 http://localhost:3000/ — текстовый ответ
 
-![текстовый ответ](lab1/screenshots/example_root.png)
+![текстовый ответ](/screenshots/example_root.png)
 
 http://localhost:3000/api/status — JSON
 
-![JSON](lab1/screenshots/example_status.png)
+![JSON](/screenshots/example_status.png)
 
 http://localhost:3000/api/info — JSON
 
-![JSON](lab1/screenshots/example_info.png)
+![JSON](/screenshots/example_info.png)
 
 http://localhost:3000/api/users/5 — JSON с параметром
 
-![JSON с параметром](lab1/screenshots/example_users.png)
+![JSON с параметром](/screenshots/example_users.png)
 
 http://localhost:3000/anything — ошибка 404
 
-![ошибка 404](lab1/screenshots/example_anything.png)
+![ошибка 404](/screenshots/example_anything.png)
 
 ## Выполнение индивидуального задания
 
@@ -157,23 +157,23 @@ app.listen(port, () => {
 
 http://localhost:3000/ — текстовый ответ
 
-![текстовый ответ](lab1/screenshots/root.png)
+![текстовый ответ](/screenshots/root.png)
 
 http://localhost:3000/api/movies — JSON
 
-![JSON](lab1/screenshots/movies.png)
+![JSON](/screenshots/movies.png)
 
 http://localhost:3000/api/cinemas — JSON
 
-![JSON](lab1/screenshots/cinemas.png)
+![JSON](/screenshots/cinemas.png)
 
 http://localhost:3000/api/movie-id — JSON с параметром
 
-![JSON с параметром](lab1/screenshots/movie-id.png)
+![JSON с параметром](/screenshots/movie-id.png)
 
 http://localhost:3000/404 — ошибка 404
 
-![ошибка 404](lab1/screenshots/404.png)
+![ошибка 404](/screenshots/404.png)
 
 ## Контрольные вопросы
 
