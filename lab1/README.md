@@ -78,19 +78,19 @@ app.listen(port, () => {
 
 http://localhost:3000/ — текстовый ответ
 
-![текстовый ответ](/screenshots/example_root.png)
+![текстовый ответ](screenshots/example_root.png)
 
 http://localhost:3000/api/status — JSON
 
-![JSON](/screenshots/example_status.png)
+![JSON](screenshots/example_status.png)
 
 http://localhost:3000/api/info — JSON
 
-![JSON](/screenshots/example_info.png)
+![JSON](screenshots/example_info.png)
 
 http://localhost:3000/api/users/5 — JSON с параметром
 
-![JSON с параметром](/screenshots/example_users.png)
+![JSON с параметром](screenshots/example_users.png)
 
 http://localhost:3000/anything — ошибка 404
 
@@ -157,23 +157,23 @@ app.listen(port, () => {
 
 http://localhost:3000/ — текстовый ответ
 
-![текстовый ответ](/screenshots/root.png)
+![текстовый ответ](screenshots/root.png)
 
 http://localhost:3000/api/movies — JSON
 
-![JSON](/screenshots/movies.png)
+![JSON](screenshots/movies.png)
 
 http://localhost:3000/api/cinemas — JSON
 
-![JSON](/screenshots/cinemas.png)
+![JSON](screenshots/cinemas.png)
 
 http://localhost:3000/api/movie-id — JSON с параметром
 
-![JSON с параметром](/screenshots/movie-id.png)
+![JSON с параметром](screenshots/movie-id.png)
 
 http://localhost:3000/404 — ошибка 404
 
-![ошибка 404](/screenshots/404.png)
+![ошибка 404](screenshots/404.png)
 
 ## Контрольные вопросы
 
