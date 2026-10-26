@@ -383,11 +383,11 @@ http://localhost:3000/movies/5 - DELETE - удаление
 
 http://localhost:3000/movies/999 - GET - ошибка 404
 
-![GET - ошибка 404](screenshots/GET_Nonexistent_Movie_(404).png)
+![GET - ошибка 404](screenshots/GET_Nonexistent_Movie(404).png)
 
 http://localhost:3000/movies - POST - ошибка 400
 
-![POST - ошибка 400](POST_Invalid_Data_(400).png)
+![POST - ошибка 400](POST_Invalid_Data(400).png)
 
 ---
 
