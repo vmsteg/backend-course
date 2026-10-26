@@ -387,7 +387,7 @@ http://localhost:3000/movies/999 - GET - ошибка 404
 
 http://localhost:3000/movies - POST - ошибка 400
 
-![POST - ошибка 400](POST_Invalid.png)
+![POST - ошибка 400](screenshots/POST_Invalid.png)
 
 ---
 
